@@ -1,10 +1,10 @@
 class String_Pro13{
 
 public static void m(String s){
-String res
-for (int index=0; index<s. length
+   String res = "";
+   for (int index=0; index<s. length
 (); index++){
-if(!res.contains(s.charAt
+        if(!res.contains(s.charAt
 (index)+""))f
 res = res. concat(s
 •charAt (index)+"") ;
