@@ -1,0 +1,30 @@
+class String_Pro13{
+
+public static void m(String s){
+String res
+for (int index=0; index<s. length
+(); index++){
+if(!res.contains(s.charAt
+(index)+""))f
+res = res. concat(s
+•charAt (index)+"") ;
+}
+}
+for (int index=0; index<res
+•length(); index++, System
+.out.println()){
+system.out.print(res.charAt
+(index)+"
+- ");
+for (char ch='A'ich<=res
+•charAt (index) ;ch++) {
+System.out.print(ch+""
+}
+}
+
+Class String_Pro13_Test{
+    
+    public static void main(String...abc){
+         String_pro13.m("JAVALAYA");
+    }
+}
